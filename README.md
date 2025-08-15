@@ -1,6 +1,4 @@
-# Visakha Pacchika Penuppu (VPP)
-
-!
+# Visakha Pacchika Penuppu (VPP)!
 
 ### Project Name: A Meaningful Identity
 **Visakha Pacchika Penuppu** is more than just a name; it is a statement of our purpose.
